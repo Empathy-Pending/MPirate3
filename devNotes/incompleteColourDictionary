@@ -1,0 +1,7 @@
+# dictionary of colors:
+#  color = {'red': '#e10c0c', 'darkRed': '#a30808', 'orange': '#f87114', 'darkOrange': '#db610d', 'yellow': 'fff349',
+         #  'darkYellow': '#cabf27', 'green': '74ca27', 'darkGreen': '#4a9902', 'turqoise': '#35da95',
+         #  'darkTurqoise': '#0f8e59', 'Blue': '#49e3d4', 'darkBlue': '#159588', 'deepBlue': '#327be1',
+         #  'darkDeepBlue': '#0a4291'}
+
+#  'darkPurple': '#480863', 'purple': '#7a12a6'

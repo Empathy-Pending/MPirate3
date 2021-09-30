@@ -1,0 +1,2 @@
+f = open(os.path.dirname(__file__)) ###opens current directory
+parent_directory = os.path.split(current_directory)[0] ### parent directory
